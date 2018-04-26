@@ -1,3 +1,3 @@
 <?php 
-echo 444444
+echo gitver;
 ?>
